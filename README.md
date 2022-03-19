@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-A demonstration using a database provided by the state os Massachusetts that tracks all the bus stops from MIT to Harvard.
+A demonstration using a database provided by the state of Massachusetts that tracks all the bus stops from MIT to Harvard.
 
 # How to run
 
